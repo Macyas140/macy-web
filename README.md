@@ -1,0 +1,2 @@
+# macy-web
+GitFlow process
