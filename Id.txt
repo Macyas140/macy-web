@@ -1,4 +1,4 @@
 Id:
-Macyas:0262138
-Brunito:0262371
-Joshidito:0262368
+Macyas:0262138, No es esta mal
+Brunito:0262371, se equivoco
+Joshidito:0262368, Nos vemos

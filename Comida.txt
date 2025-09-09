@@ -1,4 +1,4 @@
 Comida:
-Joshidito - Carne Asada
-Macias: Pizza
-Bruno: Hamburguesa
+Joshidito - Carne Asada, Va
+Macias: Pizza, No puede
+Bruno: Hamburguesa, Es mentira
