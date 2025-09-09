@@ -1,4 +1,4 @@
 Id:
-Macyas:0262138
-Brunito:0262371
-Joshidito:0262368
+Macyas:0262138, Papa
+Brunito:0262371, y
+Joshidito:0262368, rus
